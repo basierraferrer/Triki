@@ -1,2 +1,2 @@
 # Triki
-Game Triki or Tic Tac Toe developed in React JS
+This is my version of the traditional triki or tic tac toe game developed in React JS
