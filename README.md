@@ -1,6 +1,7 @@
 # Triki
 
-This is my version 0.1.0 of the traditional triki or tic tac toe game developed in React JS
+This is my version of the traditional triki or tic tac toe game.
 
-![demo](https://github.com/basierraferrer/Triki/blob/master/demo/triki.gif)
+I developed this game in React JS.
 
+![demo](https://github.com/basierraferrer/Triki/blob/master/react/demo/triki.gif)
